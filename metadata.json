@@ -1,0 +1,5 @@
+{
+  "name": "JIBO CURRENT AFFAIRS",
+  "description": "An AI-powered current affairs aggregator that compiles daily news summaries with static General Knowledge facts for exam preparation, simulating the depth of top educational resources.",
+  "requestFramePermissions": []
+}
